@@ -1,0 +1,12 @@
+﻿  Final.cpp
+c:\users\jrawl\source\repos\final\final\final.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jrawl\source\repos\final\final\final.h(6): error C2146: syntax error: missing ';' before identifier 'askText'
+c:\users\jrawl\source\repos\final\final\final.cpp(46): error C2872: 'string': ambiguous symbol
+  c:\users\jrawl\source\repos\final\final\final.h(6): note: could be 'int string'
+  d:\visual studio\vc\tools\msvc\14.15.26726\include\xstring(4373): note: or       'std::string'
+c:\users\jrawl\source\repos\final\final\final.cpp(46): error C2146: syntax error: missing ';' before identifier 'name'
+c:\users\jrawl\source\repos\final\final\final.cpp(46): error C2065: 'name': undeclared identifier
+c:\users\jrawl\source\repos\final\final\final.cpp(46): error C3861: 'askText': identifier not found
+c:\users\jrawl\source\repos\final\final\final.cpp(67): error C2065: 'name': undeclared identifier
+c:\users\jrawl\source\repos\final\final\final.cpp(73): error C2065: 'name': undeclared identifier
+c:\users\jrawl\source\repos\final\final\final.cpp(79): error C2065: 'name': undeclared identifier
